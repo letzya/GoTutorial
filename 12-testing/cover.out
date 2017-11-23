@@ -1,0 +1,10 @@
+mode: set
+github.com/letzya/awesomeProject1/12-testing/calculator.go:5.47,8.21 2 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:11.2,11.12 1 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:8.21,10.3 1 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:15.52,18.21 2 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:25.2,25.12 1 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:18.21,19.13 1 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:23.3,23.11 1 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:19.13,21.12 2 1
+github.com/letzya/awesomeProject1/12-testing/calculator.go:28.51,32.2 1 0
